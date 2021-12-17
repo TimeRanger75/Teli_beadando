@@ -1,0 +1,13 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+.jumbotron {
+	 background: url("https://mydesktopwalls.com/wp-content/uploads/2021/02/Mortal-Kombat-Background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
